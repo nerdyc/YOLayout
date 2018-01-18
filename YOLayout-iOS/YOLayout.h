@@ -8,6 +8,7 @@ FOUNDATION_EXPORT double YOLayout_VersionNumber;
 FOUNDATION_EXPORT const unsigned char YOLayout_VersionString[];
 
 #import <YOLayout/YOLayout+Core.h>
+#import <YOLayout/YOLayout+Logic.h>
 #import <YOLayout/YOLayoutOptions.h>
 #import <YOLayout/YOView.h>
 #import <YOLayout/UIView+YOLayout.h>
