@@ -12,7 +12,7 @@
 		629EA07420102468003AACF8 /* YOLayoutOptions.h in Headers */ = {isa = PBXBuildFile; fileRef = 621453352010160E0075E58F /* YOLayoutOptions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		62C99B6820100E5B00CBB0E0 /* YOLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 62C99B6620100E5B00CBB0E0 /* YOLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		62C99B7520100EDC00CBB0E0 /* YOLayout+Logic.h in Headers */ = {isa = PBXBuildFile; fileRef = 62C99B6E20100EDC00CBB0E0 /* YOLayout+Logic.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		62C99B7620100EDC00CBB0E0 /* YOLayout+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 62C99B6F20100EDC00CBB0E0 /* YOLayout+Internal.h */; };
+		62C99B7620100EDC00CBB0E0 /* YOLayout+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = 62C99B6F20100EDC00CBB0E0 /* YOLayout+Internal.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		62C99B7720100EDC00CBB0E0 /* YOLayout+Logic.m in Sources */ = {isa = PBXBuildFile; fileRef = 62C99B7020100EDC00CBB0E0 /* YOLayout+Logic.m */; };
 		62C99B7820100EDC00CBB0E0 /* YOCGUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 62C99B7120100EDC00CBB0E0 /* YOCGUtils.m */; };
 		62C99B7A20100EDC00CBB0E0 /* YOCGUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 62C99B7320100EDC00CBB0E0 /* YOCGUtils.h */; };
